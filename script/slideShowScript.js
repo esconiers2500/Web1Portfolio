@@ -1,7 +1,7 @@
 console.log("Loading slideshow script");
 const slideshowContainer = document.getElementById("slideshow");
 const slides = [
-    "growing_flowers.jpg",
+    "flowersagain.jpg",
     "floralbackground.jpg",
     "Rose-Pink-Flower-Wallpaper-HD.jpg"
 ];
