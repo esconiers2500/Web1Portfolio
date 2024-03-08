@@ -42,10 +42,10 @@ nav ul {
     border-bottom:2px solid #000000;
   }
 .logo img {
-    height: 33px;
-    width: 33px;
+    height: 43px;
+    width: 43px;
     display: inline;
-    float: right;
+    border-spacing: 0ch;
 }
 
 footer {
